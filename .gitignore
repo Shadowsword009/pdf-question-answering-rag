@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.cache/
+.vscode/
+.idea/
+
+*.pdf
+
+.env
+
+models/
+vectorstore/
+
+.DS_Store
